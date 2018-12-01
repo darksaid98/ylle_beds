@@ -2,7 +2,8 @@
 Ett skript som ger dig möjligheten att lägga dig på valfri säng på sjukhuset
 
 ## Krav
--  [Sjukhus map](https://sv.gta5-mods.com/maps/hospital)
+-  [Sjukhus](https://sv.gta5-mods.com/maps/hospital)
+- [Sjukhus props](https://forum.fivem.net/t/release-hospital-props/151753)
 - esx
 - [es_extended](https://github.com/ESX-Org/es_extended)
 
