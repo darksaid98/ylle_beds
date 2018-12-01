@@ -63,7 +63,7 @@ function bedActive(x, y, z, heading)
                 if IsControlJustReleased(0, Keys['X']) then
                     ClearPedTasks(GetPlayerPed(-1))
                     FreezeEntityPosition(GetPlayerPed(-1), false)
-                    SetEntityCoords(GetPlayerPed(-1), x, y + 0.5, z)
+                    SetEntityCoords(GetPlayerPed(-1), x + 1.0, y, z)
                     InAction = false
                 end
             end
