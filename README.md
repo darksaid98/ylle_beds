@@ -10,9 +10,9 @@ Ger dig möjligheten att lägga dig på valfri säng på sjukhuset
 ## Installation
 
 1. Ladda ner alla scripts under krav
-2. Lägg in ylle_beds och sjukhus i din resources mapp
+2. Lägg in ylle_beds i din resources mapp
 3. Gå in i server.cfg och skriv ```start ylle_beds```
 
 ## Info
-- Koordinaterna till sjukhust: x: -457.44 y: -365.31 z: -186.46
+- Koordinaterna till sjukhuset: x: -457.44 y: -365.31 z: -186.46
 - Detta är mitt första skript som jag releasar så ge gärna lite feedback
