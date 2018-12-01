@@ -7,7 +7,7 @@ Ger dig möjligheten att lägga dig på valfri säng på sjukhuset
 - esx
 - [es_extended](https://github.com/ESX-Org/es_extended)
 
-## INSTALLATION
+## Installation
 
 1. Ladda ner alla scripts under krav
 2. Lägg in ylle_beds och sjukhus i din resources mapp
