@@ -1,5 +1,5 @@
 # ylle_beds
-Ett skript som ger dig möjligheten att lägga dig på valfri säng på sjukhuset
+Ger dig möjligheten att lägga dig på valfri säng på sjukhuset
 
 ## Krav
 -  [Sjukhus](https://sv.gta5-mods.com/maps/hospital)
