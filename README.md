@@ -1,3 +1,4 @@
+# Deprecated! This fork is in no way, shape or form maintained.
 # ylle_beds
 Makes it possible to lay down in hospital beds.
 
